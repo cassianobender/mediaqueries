@@ -1,0 +1,23 @@
+@media screen and (min-width: 760px) {
+
+    #burguer{
+        display: none;
+    }
+    menu{
+        display: block;
+    }
+    li{
+        display: inline-block;
+  
+    }
+    menu{
+        text-align: left;
+    }
+    a{
+        border-radius:10px;
+    }
+    article{
+        width: 760px;
+    }
+    
+}
